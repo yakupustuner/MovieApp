@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="info_icon">Info Icon</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="close_icon">Close Icon</string>
+
+</resources>
