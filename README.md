@@ -9,6 +9,7 @@ Used in the project:
 
 
 
+https://github.com/yakupustuner/MovieApp/assets/97243182/b5c9885f-e2dd-492c-b135-67e913ca1c79
 
-https://github.com/yakupustuner/MovieApp/assets/97243182/f1527da4-9218-4fb0-9abf-d49ca17510cd
+
 
